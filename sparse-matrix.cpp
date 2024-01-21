@@ -46,7 +46,7 @@ int main()
         cout << endl;
     }
 
-    const double threshold_percentage = 55.0;
+    const double threshold_percentage = 67.0;
     int zero_count = 0;
 
     for (int i = 0; i < rows; i++)
